@@ -5,6 +5,7 @@
   "author": "Jerry Zang <jerry@ltc.tw>",
   "license": "MIT",
   "devDependencies": {
-    "tslint": "^5.5.0"
+    "tslint": "^5.5.0",
+    "typescript": "^2.4.2"
   }
 }
